@@ -1,2 +1,2 @@
 # HelloWorldAN
-Curso formadores
+Curso formadores 2º Jornada 2025
